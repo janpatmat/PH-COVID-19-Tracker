@@ -11,6 +11,7 @@ console.log(data);
 var outputHtml = "";
 
 
+
 outputHtml += "<table border = 1>";
 outputHtml += "<tr>";
 outputHtml += "<th>Regions</th>";
@@ -39,8 +40,11 @@ for(var i = 0; i < 18; i++){
 
 outputHtml += "</table>"
 
+
+
 document.getElementById("outp").innerHTML = outputHtml;
 
 }
 func()
+
 

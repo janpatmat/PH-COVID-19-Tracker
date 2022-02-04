@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(#00AEAD, #019875);
+}
+.outp{
+    background-color: #FEFED3;
+    padding-bottom: 10px;
+    width: 450px;
+    border-style: dashed;
+}
